@@ -1,0 +1,31 @@
+{
+  "name": "datav",
+  "version": "1.0.0",
+  "description": "A project for data data visualization.",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yutingzhao1991/datav.git"
+  },
+  "keywords": [
+    "data",
+    "visualization"
+  ],
+  "author": "Tingzhao Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yutingzhao1991/datav/issues"
+  },
+  "homepage": "https://github.com/yutingzhao1991/datav",
+  "devDependencies": {
+    "babel-core": "^6.7.4",
+    "babel-loader": "^6.2.4",
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
